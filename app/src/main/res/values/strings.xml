@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="belimbing">Belimbing</string>
+    <string name="jambubiji">Jambubiji</string>
+    <string name="mangga">Mangga</string>
+    <string name="manggis">Manggis</string>
+    <string name="nanas">Nanas</string>
+    <string name="pepaya">Pepaya</string>
+    <string name="rambutan">Rambutan</string>
+    <string name="salak">Salak</string>
+    <string name="sawo">Sawo</string>
+    <string name="sirsak">Sirsak</string>
+    //desc char
+    <string name="desc_belimbing">Belimbing adalah tumbuhan penghasil buah berbentuk khas yang berasal dari Indonesia, India, dan Sri Lanka. .</string>
+    <string name="desc_jambubiji">Buah jambu biji merupakan buah tropis. Nama buah lain jambu biji yaitu Guava. Buah ini telah banyak dibudidayakan dan dapat dinikmati di negara beriklim tropis dan subtropik salah satunya negara Indonesia.</string>
+    <string name="desc_mangga">Mangga adalah Mangga termasuk ke dalam genus Mangifera, yang terdiri dari 35-40 anggota dari famili Anacardiaceae.</string>
+    <string name="desc_manggis">Manggis adalah sejenis pohon hijau abadi dari daerah tropika yang diyakini berasal dari Semenanjung Malaya dan menyebar ke Kepulauan Nusantara. Tumbuh hingga mencapai 7 sampai 25 meter Buahnya juga disebut manggis, berwarna merah keunguan ketika matang, meskipun ada pula varian yang kulitnya berwarna merah.</string>
+    <string name="desc_nanas">Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae.</string>
+    <string name="desc_pepaya">Pepaya merupakan salah satu jenis buah buni. Kulit tipis, hijau atau kuning sebelum masak, kemudian kuning atau orange saat buah masak. Bentuk, ukuran, dan rasanya bervariasi. Buah berongga di bagian dalam, warna oranye sampai kemerahan.</string>
+    <string name="desc_rambutan">Rambutan merupakan tanaman tropis yang termasuk ke dalam suku lerak-lerakan atau Sapindaceae, berasal dari daerah kepulauan di Asia Tenggara. Kata "rambutan" berasal dari bahasa Melayu yang berakar dari kata "rambut" karena bentuk buahnya yang mempunyai kulit menyerupai rambut.</string>
+    <string name="desc_salak">Buah salak merupakan buah asli Indonesia yang bisa tumbuh secara subur pada lahan tropis. Buah satu ini memiliki rasa manis yang kadang bercampur asam. Bentuknya menyerupai kerucut dengan bagian bawah tumpul membulat, sedangkan bagian atasnya mengerucut tajam.</string>
+    <string name="desc_sawo">Sawo manila adalah pohon buah yang berumur panjang. Pohon dan buahnya dikenal dengan beberapa nama seperti sawo, sauh atau sauh manila, atau ciku. Sawo manila merupakan tanaman buah yang termasuk dalam suku sawo-sawoan yang berasal dari Amerika Tengah dan Meksiko.</string>
+    <string name="desc_sirsak">buah Sirsak adalah karena berasal dari bahasa Belanda Zuurzak yang berarti kantong asam, orang Jawa menyebutnya Nongko Sabrang atau Nangka Seberang dan di melayu dikenal dengan nama Nangka Belanda. Buahnya agak besar, kulitnya berduri lunak, daging buah berwarna putih, rasanya manis2 kecut/asam.</string>
+    //profile
+    <string name="dian">Dian Nurvia</string>
+    <string name="desc_dian">NIM : 20100318060011  E-Mail : Dian4536@gmail.com</string>
+</resources>
+
